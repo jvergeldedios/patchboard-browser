@@ -7,9 +7,10 @@
   "author": "Julian Vergel de Dios",
   "license": "MIT",
   "dependencies": {
-    "patchboard-js": "git://github.com/jvergeldedios/patchboard-js.git"
+    "patchboard-js": "0.4.5"
   },
   "devDependencies": {
-    "ark": "~0.5.1"
+    "ark": "~0.5.1",
+    "uglify-js": "~2.4.14"
   }
 }
