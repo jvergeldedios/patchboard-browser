@@ -1,1 +1,1 @@
-Patchboard = require("patchboard-js")
+window.Patchboard = require("patchboard-js")
