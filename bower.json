@@ -1,0 +1,27 @@
+{
+  "name": "patchboard-browser",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jvergeldedios/patchboard-browser",
+  "authors": [
+    "Julian Vergel de Dios <julian.vergeldedios@gmail.com>"
+  ],
+  "description": "A patchboard-js client packaged for the browser",
+  "main": "dist/patchboard-browser.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "patchboard-js",
+    "patchboard",
+    "api"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
