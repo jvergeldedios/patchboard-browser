@@ -1,13 +1,13 @@
 {
   "name": "patchboard-browser",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Patchboard client for the browser",
   "main": "application.coffee",
   "repository": "",
   "author": "Julian Vergel de Dios",
   "license": "MIT",
   "dependencies": {
-    "patchboard-js": "0.4.5"
+    "patchboard-js": "0.5.1"
   },
   "devDependencies": {
     "ark": "~0.5.1",
