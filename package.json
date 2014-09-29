@@ -1,6 +1,6 @@
 {
   "name": "patchboard-browser",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Patchboard client for the browser",
   "main": "application.coffee",
   "repository": "",
